@@ -6,11 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/T0XT/AL-QURAN-APP/assets/149956522/5cb315e1-9db8-4a29-9c4c-9abb26f66a6b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ملاحضه بعض الاضافات ليست كامله لاكن سيتم اضافتها
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/T0XT/AL-QURAN-APP/assets/149956522/515f3af5-bc92-49fe-bf80-daef92cd7636)
+
+
